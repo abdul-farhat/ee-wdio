@@ -1,6 +1,6 @@
 # Equal Experts: Javascript technical face-to-face 
 
-## Solved by: *please replace this with your full name*
+## Solved by: Abdul Samad Farhat
 
 ## Pre-requisites
 Candidates should have the following installed:
